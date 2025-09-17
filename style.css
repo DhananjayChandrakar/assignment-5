@@ -2,28 +2,33 @@
   background-color: #FF6B6B;
   color: white;
   padding: 20px;
+  position: static top;
 }
 
 #section2 {
   background-color: #6BCB77;
   color: white;
   padding: 20px;
+  position: relative left;
 }
 
 #section3 {
   background-color: #4D96FF;
   color: white;
   padding: 20px;
+  position: abslute right ;
 }
 
 #section4 {
   background-color: #FFC75F;
   color: black;
+  position: fixed bottom ;
   padding: 20px;
 }
 
 #section5 {
   background-color: #B967FF;
+  position: sticky z-index;
   color: white;
   padding: 20px;
 }
